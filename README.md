@@ -1,3 +1,3 @@
 # automated-build-test
 
-test automated build
+test automated build with docker hub
