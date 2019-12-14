@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENC AYTOR="kazuma matsumoto"
+ENV AUTHOR="kazuma matsumoto"
 
